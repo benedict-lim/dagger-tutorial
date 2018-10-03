@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">dagger-tutorial</string>
+    <string name="btn_go_shopping">Go Shopping</string>
+    <string name="btn_go_home">Go Home</string>
+    <string name="btn_persuade">Persuade</string>
+    <string name="txt_boy_show_excitement">This is so fun!</string>
+    <string name="txt_girl_show_excitement">Look at this pretty doll!</string>
+    <string name="txt_boy_throw_tantrum">I don\'t want to go home!</string>
+    <string name="txt_girl_throw_tantrum">I want to buy this pretty doll!</string>
+    <string name="txt_boy_show_satisfaction">I love playing games!</string>
+    <string name="txt_girl_show_satisfaction">Yummy candy!</string>
+</resources>
